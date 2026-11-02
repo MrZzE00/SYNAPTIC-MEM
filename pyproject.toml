@@ -43,10 +43,10 @@ api = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-org/synaptic"
-Documentation = "https://github.com/your-org/synaptic#documentation"
-Repository = "https://github.com/your-org/synaptic.git"
-Issues = "https://github.com/your-org/synaptic/issues"
+Homepage = "https://github.com/MrZzE00/SYNAPTIC-MEM"
+Documentation = "https://github.com/MrZzE00/SYNAPTIC-MEM#documentation"
+Repository = "https://github.com/MrZzE00/SYNAPTIC-MEM.git"
+Issues = "https://github.com/MrZzE00/SYNAPTIC-MEM/issues"
 
 [build-system]
 requires = ["setuptools>=61.0"]

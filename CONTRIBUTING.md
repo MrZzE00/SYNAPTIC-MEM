@@ -35,12 +35,12 @@ This project and everyone participating in it is governed by our commitment to c
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/synaptic.git
-   cd synaptic
+   git clone https://github.com/YOUR_USERNAME/SYNAPTIC-MEM.git
+   cd SYNAPTIC-MEM
    ```
 3. Add the upstream remote:
    ```bash
-   git remote add upstream https://github.com/original-org/synaptic.git
+   git remote add upstream https://github.com/MrZzE00/SYNAPTIC-MEM.git
    ```
 
 ---

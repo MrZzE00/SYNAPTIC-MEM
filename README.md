@@ -57,8 +57,8 @@ Your team's knowledge compounds across sessions instead of evaporating.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-org/claude-memory-local.git
-cd claude-memory-local
+git clone https://github.com/MrZzE00/SYNAPTIC-MEM.git ~/claude-memory-local
+cd ~/claude-memory-local
 ./install.sh
 ```
 

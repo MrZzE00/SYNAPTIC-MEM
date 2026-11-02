@@ -154,8 +154,8 @@ ollama --version
 
 ```bash
 # Clone le repository
-git clone https://github.com/your-org/mcp-claude-mem-local.git
-cd mcp-claude-mem-local
+git clone https://github.com/MrZzE00/SYNAPTIC-MEM.git ~/claude-memory-local
+cd ~/claude-memory-local
 
 # Lancer l'installation
 ./install.sh
@@ -1115,8 +1115,8 @@ mcp-claude-mem-local/
 ### 14.2 Setup développement
 
 ```bash
-git clone https://github.com/your-org/mcp-claude-mem-local.git
-cd mcp-claude-mem-local
+git clone https://github.com/MrZzE00/SYNAPTIC-MEM.git ~/claude-memory-local
+cd ~/claude-memory-local
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

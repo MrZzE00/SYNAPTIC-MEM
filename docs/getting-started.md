@@ -57,8 +57,8 @@ The fastest way to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/claude-memory-local.git
-cd claude-memory-local
+git clone https://github.com/MrZzE00/SYNAPTIC-MEM.git ~/claude-memory-local
+cd ~/claude-memory-local
 
 # Run the installer
 ./install.sh
@@ -465,5 +465,5 @@ Add to your `CLAUDE.md`:
 
 ## Need Help?
 
-- Open an [issue on GitHub](https://github.com/your-org/claude-memory-local/issues)
-- Start a [discussion](https://github.com/your-org/claude-memory-local/discussions)
+- Open an [issue on GitHub](https://github.com/MrZzE00/SYNAPTIC-MEM/issues)
+- Start a [discussion](https://github.com/MrZzE00/SYNAPTIC-MEM/discussions)
