@@ -56,6 +56,8 @@ Your team's knowledge compounds across sessions instead of evaporating.
 
 ### 1. Clone and install
 
+> **Naming note:** the repository is called `SYNAPTIC-MEM`, but the local install folder (`~/claude-memory-local`) and the MCP server name (`claude-memory-local`) keep their original name for compatibility with existing installs, hooks and Claude Code configurations. Clone into `~/claude-memory-local` as shown below.
+
 ```bash
 git clone https://github.com/MrZzE00/SYNAPTIC-MEM.git ~/claude-memory-local
 cd ~/claude-memory-local
